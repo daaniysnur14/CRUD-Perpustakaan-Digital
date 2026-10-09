@@ -1,0 +1,119 @@
+h1 {
+    font-size: 50px;
+  font-weight: bold;
+  color: white;
+  background-color: #fdccfa;
+  padding: 16px 24px;
+  border-radius: 6px;
+  margin: 10px -40px 30px -40px;
+  letter-spacing: 2px;
+}
+
+.card:nth-child(1) {
+    background-color: #e8b7e8;
+}
+
+.card:nth-child(2) {
+    background-color: #c5e8d0;
+}
+
+.card:nth-child(3) {
+    background-color: #bde3f5;
+}
+
+.card:nth-child(4) {
+    background-color: #f5dfb7;
+}
+
+.h1 {
+    font-size: 50px;
+  font-weight: bold;
+  color: white;
+  background-color: #fdccfa;
+  padding: 16px 24px;
+  border-radius: 6px;
+  margin: 10px -40px 30px -40px;
+  letter-spacing: 2px;
+}
+.body {
+            background-color:#fdccfa;
+        }
+
+        body {
+    background-color: #ffc0cb;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background-color: white;
+    width: 360px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    text-align: center;
+    color: #d6336c;
+    margin-top: 0;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #444;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+input:focus, select:focus {
+    outline: none;
+    border-color: #d6336c;
+}
+
+button {
+    width: 100%;
+    margin-top: 25px;
+    padding: 12px;
+    background-color: #d6336c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b02a58;
+}
+
+.pesan {
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.sukses {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.gagal {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+    
